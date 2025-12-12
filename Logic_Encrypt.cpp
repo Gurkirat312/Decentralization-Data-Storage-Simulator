@@ -1,4 +1,3 @@
-// p2p_sim_threads.cpp
 #include <iostream>
 #include <unordered_map>
 #include <vector>
